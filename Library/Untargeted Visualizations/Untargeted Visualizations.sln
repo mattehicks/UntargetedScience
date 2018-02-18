@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BCD08296-0BC3-4315-1185-E6507994E07A}") = "Untargeted Visualizations", "Assembly-CSharp.csproj", "{3546B8C9-1FA2-35AD-001D-C37F6CC24E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3546B8C9-1FA2-35AD-001D-C37F6CC24E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3546B8C9-1FA2-35AD-001D-C37F6CC24E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3546B8C9-1FA2-35AD-001D-C37F6CC24E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3546B8C9-1FA2-35AD-001D-C37F6CC24E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
